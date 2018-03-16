@@ -1,0 +1,3 @@
+MaxIterations: 500
+NumClusters: 8
+Seed: 10
